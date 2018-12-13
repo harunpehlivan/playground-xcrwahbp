@@ -1,11 +1,11 @@
-# Welcome!
+# Hello Earthlings - Bash Script Tutorial
 
-This Bash template lets you get started quickly with a simple one-page playground.
+www.amiedd.com
+AmieDD 
+Code, Cosplay & Game
 
 ```bash runnable
-echo "Hello World!"
+echo "Hello Earthling!"
 ```
 
-# Advanced usage
 
-If you want a more complex example (external libraries, viewers...), see the [official documentation](https://tech.io/playgrounds/408/tech-io-documentation).
